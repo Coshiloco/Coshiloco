@@ -15,10 +15,12 @@
 [![Android_Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white&labelColor=3DDC84)]()
 </br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396)]()
+[![Python](https://img.shields.io/badge/Python-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396)]()
 [![IntelliJ Idea](https://img.shields.io/badge/IntelliJ_Idea-0071C5?style=for-the-badge&logo=intellijidea&logoColor=white&labelColor=1B6AC6)]()
 [![Netbeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apachenetbeanside&logoColor=white&labelColor=1B6AC6)]()
 </br>
 [![C#](https://img.shields.io/badge/C_Sharp-007396?style=for-the-badge&logo=csharp&logoColor=white&labelColor=007396)]()
+[![Rust](https://img.shields.io/badge/Rust-007396?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=007396)]()
 [![Visual Studio](https://img.shields.io/badge/VisualStudio-1B6AC6?style=for-the-badge&logo=visualstudio&logoColor=white&labelColor=1B6AC6)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=FFCA28)]()
