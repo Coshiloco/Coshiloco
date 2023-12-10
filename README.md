@@ -3,7 +3,7 @@
 - 🌱 Currently enhancing my skills in Kotlin, Android, Git, Java, Python, JavaScript, CSS, HTML, Rust, C#, Jetpack Compose , XMl and More . There’s always something new to learn! 😉
 - 💼 Actively seeking exciting job opportunities in software development.
 - 📫 How to reach me? Check out these links:
-     - [LinkedIn]([https://www.linkedin.com/in/antonio-f-83415069/](https://www.linkedin.com/in/pablo-hurtado-gonzalo-9a5478237/))
+     - [LinkedIn]((https://www.linkedin.com/in/pablo-hurtado-gonzalo-9a5478237/))
      - [Twitter]((https://twitter.com/willyfoca))
 
 
