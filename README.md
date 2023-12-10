@@ -35,6 +35,7 @@
 <a href="https://github.com/Coshiloco/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Coshiloco&layout=compact" />
 </a>
+<br></br>
 <br>
 <a href="https://github.com/Coshiloco/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Coshiloco" />
