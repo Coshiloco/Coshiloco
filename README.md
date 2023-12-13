@@ -42,7 +42,7 @@
 </a>
 <br/br>
 <a href="https://github.com/Coshiloco/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Coshiloco&count_private=true&theme=tokyonight" alt="Jeffresh" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Coshiloco&count_private=true&theme=tokyonight" alt="Coshiloco" />
 </a>
    
 
