@@ -1,14 +1,19 @@
-- 👋 Hi, I’m Pablo Hurtado Gonzalo.
-- 👀 Passionate about developing across various platforms and languages.
-- 🌱 Currently enhancing my skills in Kotlin, Android, Git, Java, Python, JavaScript, CSS, HTML, Rust, C#, Jetpack Compose , XMl and More . There’s always something new to learn! 😉
-- 💼 Actively seeking exciting job opportunities in software development.
-- 📫 How to reach me? Check out these links:
-     - [LinkedIn](https://www.linkedin.com/in/pablo-hurtado-gonzalo-9a5478237/)
-     - [Twitter](https://twitter.com/willyfoca)
+<h1 align="center">👋 Hi, I’m Pablo Hurtado Gonzalo</h1>
 
+<p align="center">
+  👀 I'm passionate about developing across various platforms and languages. <br>
+  🌱 Currently enhancing my skills in Kotlin, Android, Git, Java, Python, JavaScript, CSS, HTML, Rust, C#, Jetpack Compose, XML, and more. Always eager to learn! 😉 <br>
+  💼 Actively seeking exciting job opportunities in software development.
+</p>
 
+<p align="center">
+  📫 How to reach me?<br>
+  <a href="https://www.linkedin.com/in/pablo-hurtado-gonzalo-9a5478237/">LinkedIn</a> ·
+  <a href="https://twitter.com/willyfoca">Twitter</a>
+</p>
 
-## Tecnologies:
+<h2 align="center">Technologies</h2>
+<p align="center">
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)]()
 [![JetpackCompose](https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=4285F4)]()
@@ -31,21 +36,15 @@
 [![Debian GNU Linux](https://img.shields.io/badge/Debian_GNU_Linux-A81D33?style=for-the-badge&logo=debian&logoColor=white&labelColor=A81D33)]()
 [![Ms Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=0078D6)]()
 </br>
+</p>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=coshiloco&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=coshiloco&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=coshiloco&show_icons=true" />
-</picture>
+<!-- Your GitHub stats cards -->
+<h2 align="center">My GitHub Stats</h2>
 
-<a href="https://github.com/Coshiloco/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Coshiloco&count_private=true&theme=tokyonight" alt="Coshiloco" />
-</a>
-   
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=coshiloco&show_icons=true&theme=dark" alt="Coshiloco's GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coshiloco&count_private=true&theme=tokyonight" alt="Coshiloco's GitHub Streak" />
+</p>
