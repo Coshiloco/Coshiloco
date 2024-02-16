@@ -47,3 +47,11 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coshiloco&count_private=true&theme=tokyonight" alt="Coshiloco's GitHub Streak" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coshiloco&count_private=true&theme=tokyonight" alt="Coshiloco's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Coshiloco&count_private=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=coshiloco&layout=donut-vertical)" alt="Coshiloco's GitHub Streak" />
+</p>
