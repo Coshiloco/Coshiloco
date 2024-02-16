@@ -32,7 +32,7 @@
 [![Ms Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=0078D6)]()
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coshiloco&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coshiloco&show_icons=true&theme=transparent)
 
 <a href="https://github.com/Coshiloco/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Coshiloco&count_private=true&theme=tokyonight" alt="Coshiloco" />
