@@ -1,19 +1,14 @@
-<h1 align="center">👋 Hi, I’m Pablo Hurtado Gonzalo</h1>
+- 👋 Hi, I’m Pablo Hurtado Gonzalo.
+- 👀 Passionate about developing across various platforms and languages.
+- 🌱 Currently enhancing my skills in Kotlin, Android, Git, Java, Python, JavaScript, CSS, HTML, Rust, C#, Jetpack Compose , XMl and More . There’s always something new to learn! 😉
+- 💼 Actively seeking exciting job opportunities in software development.
+- 📫 How to reach me? Check out these links:
+     - [LinkedIn](https://www.linkedin.com/in/pablo-hurtado-gonzalo-9a5478237/)
+     - [Twitter](https://twitter.com/willyfoca)
 
-<p align="center">
-  👀 I'm passionate about developing across various platforms and languages. <br>
-  🌱 Currently enhancing my skills in Kotlin, Android, Git, Java, Python, JavaScript, CSS, HTML, Rust, C#, Jetpack Compose, XML, and more. Always eager to learn! 😉 <br>
-  💼 Actively seeking exciting job opportunities in software development.
-</p>
 
-<p align="center">
-  📫 How to reach me?<br>
-  <a href="https://www.linkedin.com/in/pablo-hurtado-gonzalo-9a5478237/">LinkedIn</a> ·
-  <a href="https://twitter.com/willyfoca">Twitter</a>
-</p>
 
-<h2 align="center">Technologies</h2>
-
+## Tecnologies:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=3DDC84)]()
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0095D5)]()
 [![JetpackCompose](https://img.shields.io/badge/JetpackCompose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white&labelColor=4285F4)]()
@@ -37,21 +32,16 @@
 [![Ms Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&labelColor=0078D6)]()
 </br>
 
-<!-- Your GitHub stats cards -->
-<h2 align="center">My GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coshiloco&show_icons=true&theme=dark" alt="Coshiloco's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coshiloco&count_private=true&theme=tokyonight" alt="Coshiloco's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Coshiloco&count_private=true&theme=tokyonight" alt="Coshiloco's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="[https://github-readme-streak-stats.herokuapp.com/?user=Coshiloco&count_private=true&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs/?username=coshiloco&layout=donut-vertical)" alt="Coshiloco's GitHub Streak" />
-</p>
+<a href="https://github.com/Coshiloco/github-readme-stats">
+     <img align="center" src="https://github-readme-stats-six-lyart-84.vercel.app/api?username=Coshiloco&show_icons=true&count_private=true&theme=tokyonight&layout=compact" />
+</a>
+<br></br>
+<br>
+<a href="https://github.com/Coshiloco/github-readme-stats">
+  <img align="center" src="https://github-readme-stats-six-lyart-84.vercel.app/api/top-langs/?username=Coshiloco&show_icons=true&theme=tokyonight&hide=typescript,HTML&layout=compact" />
+</a>
+<br></br>
+<a href="https://github.com/Coshiloco/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Coshiloco&count_private=true&theme=tokyonight" alt="Coshiloco" />
+</a>
+   
